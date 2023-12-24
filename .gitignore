@@ -1,0 +1,13 @@
+# Folders / venvs
+.vscode/
+__pycache__/
+reqv/
+wandb/
+models/
+mlps/
+
+# Files
+*.pyc
+*.pyo
+*.local
+*.pt
