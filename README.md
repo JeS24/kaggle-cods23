@@ -1,5 +1,5 @@
 ## CODS-COMAD 2023 Data Challenge - Vid Pre-req edge detection
-## Team - _JeS0_
+## Team - _JeS0_ - [Rank 3](https://cods-comad.in/data-challenge.php)
 - [Jyotirmaya Shivottam](https://github.com/JeS24) (jyotirmaya.shivottam@niser.ac.in)
 - [Rucha Bhalchandra Joshi](https://ruchajoshi.github.io/) (rucha.joshi@niser.ac.in)
 - [Dr. Subhankar Mishra](https://www.niser.ac.in/~smishra/) (smishra@niser.ac.in)
