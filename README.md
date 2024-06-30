@@ -1,4 +1,4 @@
-## ACM CODS-COMAD 2023 Data Challenge - Vid Pre-req edge detection
+## ACM CODS-COMAD 2024 Data Challenge - Vid Pre-req edge detection
 ## Team - _JeS0_ - [Rank 3](https://cods-comad.in/data-challenge.php)
 - [Jyotirmaya Shivottam](https://github.com/JeS24) (jyotirmaya.shivottam@niser.ac.in)
 - [Rucha Bhalchandra Joshi](https://ruchajoshi.github.io/) (rucha.joshi@niser.ac.in)
